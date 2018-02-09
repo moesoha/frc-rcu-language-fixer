@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("FRC Radio Utility Language Fixer")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Fix the language issue of the FRC RCU in non-English Windows.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Tianhai Information Technology")]
 [assembly: AssemblyProduct("FRC Radio Utility Language Fixer")]
-[assembly: AssemblyCopyright("Copyright ©  2018")]
+[assembly: AssemblyCopyright("Copyright Soha Jin ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
