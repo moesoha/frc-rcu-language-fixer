@@ -1,6 +1,6 @@
 # FRC Radio Configuration Utility Language Fixer
 
-A hack which solves the interface selection issue in non-English Windows.
+A hack which solves the interface selection [issue](https://github.com/wpilibsuite/allwpilib/issues/907#) in non-English Windows.
 
 ![](images/awesome.png)
 
