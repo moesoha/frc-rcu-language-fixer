@@ -1,6 +1,6 @@
 # FRC Radio Configuration Utility Language Fixer
 
-A hack which solves the interface selection [issue](https://github.com/wpilibsuite/allwpilib/issues/907#) in non-English Windows.
+A hack which solves the interface selection [issue](https://github.com/wpilibsuite/allwpilib/issues/907) in non-English Windows.
 
 ![](images/awesome.png)
 
@@ -18,7 +18,8 @@ The program mocks what the `ipconfig /all` do, and made it simpler. Because the 
 
 The system-wide codepage is not changed, therefore you needn't to change the interface name to English.
 
-![Comparing Fixer and real ipconfig](images/compare_fixer_ipconfig.png)
+![Comparing Fixer and real ipconfig (Chinese)](images/compare_fixer_ipconfig.png)
+![Comparing Fixer and real ipconfig (French)](images/compare_fixer_ipconfig-fr.png)
 
 ### Requirements
 
@@ -27,5 +28,7 @@ The system-wide codepage is not changed, therefore you needn't to change the int
 
 ----------
 
+
+[About my exploration on the language issue (《在非英文 Windows 上使用 FRC Radio Configuration Utility》*Using FRC Radio Configuration Utility on Non-English Windows*, Chinese)](https://soha.moe/post/use-frc-radio-configuration-utility-on-non-english-windows.html)
 
 *Thanks to Team 6971, they are the first one tested this on Chinese Windows 7/10.*
